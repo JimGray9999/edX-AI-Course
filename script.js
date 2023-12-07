@@ -1,4 +1,3 @@
-
 // dependencies
 require('dotenv').config();
 const { OpenAI } = require('langchain/llms/openai');
